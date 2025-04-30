@@ -64,13 +64,3 @@ Requests com status HTTP 200: 100
 Distribuição de códigos de status:
   200: 100
 ```
-
-## 🛠️ Estrutura do Projeto
-
-- `main.go`: Arquivo principal que contém a lógica de execução do teste de carga.
-- `Dockerfile`: Define a imagem Docker para a aplicação.
-- `go.mod` e `go.sum`: Gerenciam as dependências do projeto.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
